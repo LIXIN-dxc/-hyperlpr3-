@@ -1,0 +1,2 @@
+test1是hyperlpr3的调用
+test2是用与tkinter编写的ui同时调用test1中获取得到的车牌字符，并且保存
